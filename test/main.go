@@ -1,5 +1,5 @@
 package main
 import "fmt"
-func main() {
+func PrintMsg() {
 	fmt.Print("test package")
 }
